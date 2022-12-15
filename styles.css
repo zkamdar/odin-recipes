@@ -1,0 +1,40 @@
+h1{
+    background-color: lightblue;
+    font-weight: bold;
+    text-align: center;
+}
+
+h2{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    background-color: darkolivegreen;
+    color: black;
+}
+
+.steps{
+    text-align: center;
+    background-color: bisque;
+    color: black;
+}
+
+img{
+    height: auto;
+    width: 450px;
+    display: block;
+    margin: auto;
+}
+
+ul,
+ol{
+    font-family: 'Times New Roman', Times, serif;
+    color:darkslategray;
+}
+
+p{
+    font-size: 18px;
+}
